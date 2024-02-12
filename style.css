@@ -1,0 +1,35 @@
+body {
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "East Sea Dokdo", cursive;
+    background-image: url(Bono.jpeg);
+  }
+  
+  h1 {
+    border: 20px solid white;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgba(247, 243, 242, 0.7);
+  }
+  
+  
+  .aa {
+    padding-bottom: 20px;
+    text-size-adjust: 30px;
+    color: blue;
+  }
+  
+  
+  .bb {
+    height: 80px;
+    width: 100px;
+    margin-top: 5px;
+    border-radius: 50px;
+    font-size: 30pt;
+    font-weight: bold;
+  }
